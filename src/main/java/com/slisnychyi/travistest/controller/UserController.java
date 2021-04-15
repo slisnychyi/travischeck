@@ -9,4 +9,7 @@ public class UserController {
     public String getName() {
         return "my name";
     }
+    public void test(){
+
+    }
 }
